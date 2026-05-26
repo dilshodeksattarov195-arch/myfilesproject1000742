@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smspave",
+        "uuid": 2828504,
+        "checksum": "zosqvm"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
